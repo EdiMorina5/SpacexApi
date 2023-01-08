@@ -1,6 +1,8 @@
 # SpacexApi
 
-Dukja e  detyres faqja e par ku thirrem nga Api foton, emrin dhe vitin.
+Gjat punimit te detyres kam perdorur librarin React Route poashtu pjesen e style e kam punuar me Tailwind Css, dhe  me posht i kam paraqitur dy foto te detyres pas perfundimit.
+
+Dukja e  detyres nje pjes faqes te par ku thirrem nga Api foton, emrin dhe vitin.
 
 
 ![s1](https://user-images.githubusercontent.com/117669883/211195482-eab15e4f-f8a2-4ff3-a0d7-2b07911bf219.png)
